@@ -1,0 +1,3 @@
+com\example\Oauth\OauthApplication.class
+com\example\Oauth\SecurityConfig.class
+com\example\Oauth\UserController.class
